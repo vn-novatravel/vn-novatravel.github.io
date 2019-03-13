@@ -31,7 +31,7 @@ paginate: 6
 paginate_path: /page:num/
 
 # Comments
-disqus: yes
+disqus: no
 disqus-shortname: webjeda-demo
 
 #social
