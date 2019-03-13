@@ -20,11 +20,11 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: webjeda
+built-by: Nova Ticketing
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: Nova Ticketing
+   link: 'https://www.facebook.com/nova.ticketing.5'
 
 # Build settings
 markdown: kramdown
@@ -40,17 +40,14 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+facebook: https://www.facebook.com/nova.ticketing.5
 email: hello@webjeda.com
 
 #facebook like box
 fb-like-box: yes
 fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-page-url: https://www.facebook.com/nova.ticketing.5
+fb-page-title: Nova Ticketing
 
 # Sass style
 sass:
