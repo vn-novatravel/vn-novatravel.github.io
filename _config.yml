@@ -20,8 +20,6 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: Nova Ticketing
-
 copyright:
    name: Nova Ticketing
    link: 'https://www.facebook.com/nova.ticketing.5'
@@ -31,9 +29,6 @@ markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
-
-# Tracker
-analytics: UA-83979019-1
 
 # Comments
 disqus: yes
